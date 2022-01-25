@@ -199,7 +199,7 @@ contact:
   title: "Contacto"
   form:
     method: "POST"
-    action: "#"
+    action: "https://formspree.io/f/mvolzjrj"
     full_name: "Nombres"
     email: "Email"
     message: "Escribir un mensaje"
