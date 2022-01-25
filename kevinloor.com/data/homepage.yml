@@ -100,9 +100,10 @@ client_and_work:
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/tableau_gimp.png"
+        _2x: "img/clients/tableau_2xgimp.png"
+      alt: "tableau"
+      ref: "https://www.tableau.com/"
 
     - logo:
         x: "img/clients/earth-2.png"
