@@ -211,14 +211,14 @@ contact:
     email: '<a href="mailto:kevinloormz@gmail.com">kevinloormz@gmail.com</a>'
   address:
     title: "Dirección"
-    address: "Coop. Horizontes del Fortín Mz 2062 Sl 3"
+    address: "Coop. Horizontes del Fortín"
   button:
     icon: "icon-mail-fill"
     btnText: "Enviar"
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
