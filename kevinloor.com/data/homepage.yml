@@ -106,29 +106,34 @@ client_and_work:
       ref: "https://www.tableau.com/"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/power_bi_gimp.png"
+        _2x: "img/clients/tableau_2xgimp.png"
+      alt: "Power BI"
+      ref: "https://powerbi.microsoft.com/es-es/"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/office_gimpi.png"
+        _2x: "img/clients/office_2xgimpi.png"
+      alt: "Office"
+      ref: "https://www.microsoft.com/es-ww/microsoft-365"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/Python_gimp.png"
+        _2x: "img/clients/Python_2xgimp.png"
+      alt: "Python"
+      ref: "https://www.python.org/"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/clients/jupyter.png"
+        _2x: "img/clients/jupyter2x.png"
+      alt: "Jupyter"
+      ref: "https://jupyter.org/"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "img/clients/azure.png"
+        _2x: "img/clients/azure2x.png"
+      alt: "Azure"
+      ref: 'https://azure.microsoft.com/es-es/'
 
   works:
     - title: "Radity Finance - UI Kit"
