@@ -21,14 +21,14 @@ showcase:
     btnText: "Email"
     URL: "mailto:kevinloormz@gmail.com"
   
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Email"
-    URL: "mailto:kevinloormz@gmail.com"
+  button2:
+    icon: "icon-linkedin-fill"
+    btnText2: "Linkedin"
+    URL: "https://www.linkedin.com/in/kevinloor/"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/in/kevinloor/"
 
     - icon: "github"
       URL: "https://github.com/radity"
