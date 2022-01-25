@@ -36,7 +36,7 @@ theme = "raditian-free-hugo-theme"
   weight = 3
 
   [[menu.header]]
-  name = "Contact"
+  name = "Contacto"
   URL = "#contact"
   weight = 4
 
@@ -52,7 +52,7 @@ theme = "raditian-free-hugo-theme"
   weight = 3
 
   [[menu.footer]]
-  name = "Contact"
+  name = "Contacto"
   URL = "#contact"
   weight = 4
 

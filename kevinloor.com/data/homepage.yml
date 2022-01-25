@@ -27,14 +27,12 @@ showcase:
     URL: "https://www.linkedin.com/in/kevinloor/"
 
   socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/kevinloor/"
-
+    
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/kevinloormz"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com/kevinloorm"
 
 
 # about
@@ -140,7 +138,7 @@ client_and_work:
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Ir"
         URL: "#"
       image:
         x: "img/works/radity-finance.jpg"
@@ -151,7 +149,7 @@ client_and_work:
       description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Ir"
         URL: "#"
       image:
         x: "img/works/swissfintech.jpg"
@@ -162,7 +160,7 @@ client_and_work:
       description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Ir"
         URL: "#"
       image:
         x: "img/works/robo-advisor.jpg"
@@ -198,25 +196,25 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact"
+  title: "Contacto"
   form:
     method: "POST"
     action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
+    full_name: "Nombres"
+    email: "Email"
+    message: "Escribir un mensaje"
   phone:
-    title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    title: "Celular"
+    number: "+593 969 587 891"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:kevinloormz@gmail.com">kevinloormz@gmail.com</a>'
   address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    title: "Dirección"
+    address: "Coop. Horizontes del Fortín Mz 2062 Sl 3"
   button:
     icon: "icon-mail-fill"
-    btnText: "Send Message"
+    btnText: "Enviar"
 
 # newsletter
 newsletter:
