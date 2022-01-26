@@ -178,6 +178,27 @@ testimonial:
         x: "img/cert/platzi_dataviz_bi.png"
         _2x: "img/cert/platzi_dataviz_bi.png"
 
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/cert/platzi_dataviz_bi.png"
+        _2x: "img/cert/platzi_dataviz_bi.png"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/cert/platzi_dataviz_bi.png"
+        _2x: "img/cert/platzi_dataviz_bi.png"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/cert/platzi_dataviz_bi.png"
+        _2x: "img/cert/platzi_dataviz_bi.png"
+
   
 
 # contact
