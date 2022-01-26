@@ -27,7 +27,7 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "Sobre mi"
-  URL = "#about"
+  URL = "#experience"
   weight = 2
 
   [[menu.header]]
@@ -43,7 +43,7 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.footer]]
   name = "Sobre mi"
-  URL = "#about"
+  URL = "#experience"
   weight = 2
 
   [[menu.footer]]

@@ -71,7 +71,7 @@ education:
 # experience
 experience:
   enable: true
-  title: "Experiencia"
+  title: "Resumen"
   description: "Más de 3 años de experiencia trabajando con empresas nacionales de soluciones Digitales. Apasionado por la ciencia de datos e Inteligencia artificial "
   button:
     icon: "icon-linkedin-fill"
@@ -136,63 +136,53 @@ client_and_work:
       ref: 'https://azure.microsoft.com/es-es/'
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Tableau data viz"
+      description: "Se realizó un análisis exploratorio para validar hipótesis de accidentes de tránsito y se obtienen importantes visualizaciones que serian de utilidad para tomar decisiones."
       button:
         icon: "icon-arrow-right"
         btnText: "Ir"
-        URL: "#"
+        URL: "https://public.tableau.com/app/profile/kevin6291/viz/ProyectofinalBIplatziescuelaanalistadedatos/Dashboard1"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/pro_tableau_uno1x.png"
+        _2x: "img/works/pro_tableau_uno2x.png"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Ir"
-        URL: "#"
-      image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
-
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Ir"
-        URL: "#"
-      image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
-      is_even: true
+    
+ 
 
 # testimonial
 testimonial:
-  enable: false
-  title: "Recomendaciones"
+  enable: true
+  title: "Certificaciones"
   items:
     - name: "Daniel Jordan"
       position: "Phonet, CEO"
       content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
+        x: "img/works/robo-advisor.jpg"
         _2x: "img/testimonials/daniel-jordan@2x.jpg"
+      ref: "https://www.tableau.com/"
+      alt: "Azure"
 
     - name: "Jonathan Peters"
       position: "Textic, CEO"
       content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
+        x: "img/works/swissfintech.jpg"
         _2x: "img/testimonials/jonathan-peters@2x.jpg"
 
     - name: "Antonio Willis"
       position: "Cyberse, CEO"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
-        x: "img/testimonials/antonio-willis.jpg"
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/works/radity-finance.jpg"
         _2x: "img/testimonials/antonio-willis@2x.jpg"
 
 # contact
