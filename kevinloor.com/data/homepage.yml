@@ -155,7 +155,7 @@ testimonial:
   enable: true
   title: "Certificaciones"
   items:
-    - name: "Daniel Jordan"
+    - name: "Big Data - Kevin Loor"
       position: "Phonet, CEO"
       content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
       image:
@@ -164,35 +164,35 @@ testimonial:
       ref: "https://www.tableau.com/"
       
 
-    - name: "Jonathan Peters"
+    - name: "Data Analyst - Kevin Loor"
       position: "Textic, CEO"
       content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
       image:
         x: "img/cert/linkedin_data_analyst.png"
         _2x: "img/cert/linkedin_data_analyst.png"
 
-    - name: "Antonio Willis"
+    - name: "Data Viz - Kevin Loor"
       position: "Cyberse, CEO"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
         x: "img/cert/platzi_dataviz_bi.png"
         _2x: "img/cert/platzi_dataviz_bi.png"
 
-    - name: "Antonio Willis"
+    - name: "Excel - Kevin Loor"
       position: "Cyberse, CEO"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
         x: "img/cert/platzi_excel.png"
         _2x: "img/cert/platzi_excel.png"
 
-    - name: "Antonio Willis"
+    - name: "Python Data Science - Kevin Loor"
       position: "Cyberse, CEO"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
         x: "img/cert/linkedin_py.png"
         _2x: "img/cert/linkedin_py.png"
 
-    - name: "Antonio Willis"
+    - name: "Power BI - Kevin Loor"
       position: "Cyberse, CEO"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
