@@ -136,6 +136,18 @@ client_and_work:
       ref: 'https://azure.microsoft.com/es-es/'
 
   works:
+    
+    - title: "Spark Fundamentals"
+      description: "Trabajando con Spark en Deepnote (Jupyter Notebook Compatibility) manejando grandes volumenes de datos en poco tiempo de procesamiento."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ir"
+        URL: "https://deepnote.com/@kevin-loor/Spark-NUcx6iefRL6IFYeuX15Qgg"
+      image:
+        x: "img/works/spark_dn_fundamentals1x.jpg"
+        _2x: "img/works/spark_dn_fundamenta2x.jpg"
+      is_even: true
+    
     - title: "Tableau data viz"
       description: "Se realizó un análisis exploratorio para validar hipótesis de accidentes de tránsito y se obtienen importantes visualizaciones que serian de utilidad para tomar decisiones."
       button:
@@ -143,8 +155,8 @@ client_and_work:
         btnText: "Ir"
         URL: "https://public.tableau.com/app/profile/kevin6291/viz/ProyectofinalBIplatziescuelaanalistadedatos/Dashboard1"
       image:
-        x: "img/works/pro_tableau_uno1x.png"
-        _2x: "img/works/pro_tableau_uno2x.png"
+        x: "img/works/tableau_pf1x.jpg"
+        _2x: "img/works/tableau_pf2x.jpg"
       is_even: true
 
     
